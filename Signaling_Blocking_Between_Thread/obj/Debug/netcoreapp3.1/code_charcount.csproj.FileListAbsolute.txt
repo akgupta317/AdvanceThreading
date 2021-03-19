@@ -1,0 +1,13 @@
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.exe
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.deps.json
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.runtimeconfig.json
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.runtimeconfig.dev.json
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.dll
+D:\code_charcount\bin\Debug\netcoreapp3.1\code_charcount.pdb
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.csprojAssemblyReference.cache
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.AssemblyInfoInputs.cache
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.AssemblyInfo.cs
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.csproj.CoreCompileInputs.cache
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.dll
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.pdb
+D:\code_charcount\obj\Debug\netcoreapp3.1\code_charcount.genruntimeconfig.cache
