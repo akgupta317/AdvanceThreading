@@ -1,0 +1,13 @@
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.csprojAssemblyReference.cache
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfoInputs.cache
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfo.cs
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.csproj.CoreCompileInputs.cache
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.exe
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.deps.json
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.json
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.dev.json
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.dll
+D:\AdvanceThreading\TPL\bin\Debug\netcoreapp3.1\TPL.pdb
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.dll
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.pdb
+D:\AdvanceThreading\TPL\obj\Debug\netcoreapp3.1\TPL.genruntimeconfig.cache
