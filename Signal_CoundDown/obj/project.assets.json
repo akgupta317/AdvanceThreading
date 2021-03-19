@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AdvanceThreading\\Signaling_Blocking_Between_Thread\\code_charcount.csproj",
-      "projectName": "code_charcount",
-      "projectPath": "D:\\AdvanceThreading\\Signaling_Blocking_Between_Thread\\code_charcount.csproj",
+      "projectUniqueName": "D:\\AdvanceThreading\\Signal_CoundDown\\Signal_CoundDown.csproj",
+      "projectName": "Signal_CoundDown",
+      "projectPath": "D:\\AdvanceThreading\\Signal_CoundDown\\Signal_CoundDown.csproj",
       "packagesPath": "C:\\Users\\91810\\.nuget\\packages\\",
-      "outputPath": "D:\\AdvanceThreading\\Signaling_Blocking_Between_Thread\\obj\\",
+      "outputPath": "D:\\AdvanceThreading\\Signal_CoundDown\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91810\\AppData\\Roaming\\NuGet\\NuGet.Config"

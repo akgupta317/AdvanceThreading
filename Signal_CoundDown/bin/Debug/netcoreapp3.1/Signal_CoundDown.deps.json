@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Signal_CoundDown/1.0.0": {
+        "runtime": {
+          "Signal_CoundDown.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Signal_CoundDown/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
