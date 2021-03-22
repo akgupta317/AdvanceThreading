@@ -1,0 +1,13 @@
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.exe
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.deps.json
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.runtimeconfig.json
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.runtimeconfig.dev.json
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.dll
+D:\AdvanceThreading\ParalleLINQ\bin\Debug\netcoreapp3.1\ParalleLINQ.pdb
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.csprojAssemblyReference.cache
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.AssemblyInfoInputs.cache
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.AssemblyInfo.cs
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.csproj.CoreCompileInputs.cache
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.dll
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.pdb
+D:\AdvanceThreading\ParalleLINQ\obj\Debug\netcoreapp3.1\ParalleLINQ.genruntimeconfig.cache

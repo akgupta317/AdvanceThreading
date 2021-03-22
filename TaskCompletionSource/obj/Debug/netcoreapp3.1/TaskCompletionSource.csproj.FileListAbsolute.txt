@@ -1,0 +1,13 @@
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.exe
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.deps.json
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.runtimeconfig.json
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.runtimeconfig.dev.json
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.dll
+D:\AdvanceThreading\TaskCompletionSource\bin\Debug\netcoreapp3.1\TaskCompletionSource.pdb
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.csprojAssemblyReference.cache
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.AssemblyInfoInputs.cache
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.AssemblyInfo.cs
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.csproj.CoreCompileInputs.cache
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.dll
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.pdb
+D:\AdvanceThreading\TaskCompletionSource\obj\Debug\netcoreapp3.1\TaskCompletionSource.genruntimeconfig.cache
